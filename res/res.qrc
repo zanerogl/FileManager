@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/deleteObj_64.png</file>
+        <file>icon/newDirectory_64.png</file>
+    </qresource>
+
+</RCC>
